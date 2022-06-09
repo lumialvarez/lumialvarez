@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p>
+<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=lumialvarez&show_icons=true&theme=algolia&locale=en&layout=compact&hide_border=true&exclude_repo=CRUD_JAX-RS_AngularJS&langs_count=9" alt="lumialvarez" />
+</p>
+
 <!--
 **lumialvarez/lumialvarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
