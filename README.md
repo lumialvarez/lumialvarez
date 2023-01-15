@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lumi-aalvarez/)](https://www.linkedin.com/in/lumi-aalvarez/)
 
 - :computer: Senior Software Engineer at **Mercadolibre**
-- :school: A graduated Systems Engineer from the Universidad Tecnológica de Pereira [:link:](https://www.utp.edu.co/)
+- :school: A graduated Systems Engineer from the **Universidad Tecnológica de Pereira** [:link:](https://www.utp.edu.co/)
 
 
 <p>
