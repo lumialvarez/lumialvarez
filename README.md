@@ -9,4 +9,4 @@
 <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=lumialvarez&show_icons=true&theme=algolia&locale=en&layout=compact&hide_border=true&exclude_repo=CRUD_JAX-RS_AngularJS&langs_count=9" alt="lumialvarez" />
 </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=lumialvarez.readme)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flumialvarez%2Flumialvarez&countColor=%23263759)
